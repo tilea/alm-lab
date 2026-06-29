@@ -7,5 +7,13 @@
   "publisherPrefix": "almlab",
   "repo": "tilea/alm-lab",
   "mainRulesetId": 18266531,
-  "mainRulesetName": "alm-lab-main-protection"
+  "mainRulesetName": "alm-lab-main-protection",
+  "devEnvName": "Warehouse dev 2567",
+  "devEnvDomain": "wm-dev-2567",
+  "devEnvUrl": "https://wm-dev-2567.crm4.dynamics.com",
+  "devProfile": "dev",
+  "testEnvName": "Warehouse test 2567",
+  "testEnvDomain": "wm-test-2567",
+  "testEnvUrl": "https://wm-test-2567.crm4.dynamics.com",
+  "testProfile": "test"
 }
